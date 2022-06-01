@@ -1,0 +1,10 @@
+# CMake files
+cmake-*/
+
+# Build files
+[Bb]uild/
+[Oo]ut/
+
+# IDE files
+.idea/
+.vs/
